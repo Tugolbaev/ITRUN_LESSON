@@ -30,9 +30,9 @@ The Complete Front-End Web Development Course!           Get started as a front-
 
     padding-top: 20%;
 }
-###Experience:
+### Experience:
 Capture and share videos, screenshots, and livestreams with friends. Keep your drivers up to date and optimize your game settings. GeForce Experience™ lets you do it all, making it the super essential companion to your GeForce® graphics card.
-###Education:
+### Education:
 "Schoolboy" 
-###English:
+### English:
 Knowledge Third level         
